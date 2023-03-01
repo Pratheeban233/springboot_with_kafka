@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.tutorial.kafka.SpringBootwithKafka.SpringBootWithKafkaApplication",
+      "sourceType": "com.tutorial.kafka.SpringBootwithKafka.SpringBootWithKafkaApplication"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
